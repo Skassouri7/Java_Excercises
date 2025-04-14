@@ -51,6 +51,7 @@ public class Main {
 
         System.out.println("threeDigitNumber1: " + threeDigitNum1);
         System.out.println("threeDigitNumber2: " + threeDigitNum2);
+        System.out.println("Completed");
 
         return threeDigitNum1 == threeDigitNum2 && newNum1 == newNum2;
     }
