@@ -1,4 +1,4 @@
-package Day1;
+package Section4;
 
 public class GreetingClass {
     public static void main(String[] args) {
