@@ -1,4 +1,4 @@
-package Section7.Lessons90_100;
+package Section7.Lesson97_100;
 
 public class Lesson100_StringBuilder {
     public static void main(String[] args) {
